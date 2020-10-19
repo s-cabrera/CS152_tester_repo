@@ -2,7 +2,7 @@
 
 
 %{
-#include <math.d>
+#include <math.h>
 %}
 
 digit [0-9];
